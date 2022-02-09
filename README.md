@@ -1,6 +1,10 @@
 ### Hi there 👋
 Software Engineer with an interest in Mobile / Full Stack Development. 
+
+
 All about the Hooplah
+
+[Resume](https://docs.google.com/document/d/1xVGDN7O_gfJF2uxof5SlQz95ssRpTjQLi5lAy15MQpU/edit?usp=sharing)
 
 <!--
 **Bsoong/bsoong** 
