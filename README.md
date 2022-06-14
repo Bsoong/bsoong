@@ -3,7 +3,7 @@
 ##### Software Engineer with an interest in Mobile / Full Stack Development. 
 
 
-### All about the Hooplah
+### Snake history!
 ![snake gif](https://raw.githubusercontent.com/bsoong/bsoong/output/github-contribution-grid-snake.svg)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bsoong&theme=buefy-dark)](https://git.io/streak-stats)
