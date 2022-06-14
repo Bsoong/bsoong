@@ -1,8 +1,11 @@
 ### Hi there 👋
-Software Engineer with an interest in Mobile / Full Stack Development. 
+
+##### Software Engineer with an interest in Mobile / Full Stack Development. 
 
 
-All about the Hooplah
+### All about the Hooplah
+![snake gif](https://raw.githubusercontent.com/bsoong/bsoong/output/github-contribution-grid-snake.svg)
+
 
 [Resume](https://docs.google.com/document/d/1xVGDN7O_gfJF2uxof5SlQz95ssRpTjQLi5lAy15MQpU/edit?usp=sharing)
 
