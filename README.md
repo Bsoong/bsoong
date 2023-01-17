@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-##### Software Engineer with an interest in Mobile / Full Stack Development. 
+##### Fullstack Engineer. Stevens Tech'21. [@priceline](https://priceline.com) now.
+
+Formerly [@Forkist](https://forkist.com), and [@Karmacheck](https://karmacheck.com/#)  
 
 
 ### Snake history!
