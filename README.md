@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-##### Fullstack Engineer. Stevens Tech'21. [@priceline](https://priceline.com) now.
+## Fullstack Engineer. Stevens Tech'21. [@priceline](https://priceline.com) now, working on passion projects [@HudsonHapps.com](https://hudsonhapps.com)
 
-Formerly [@Forkist](https://forkist.com), and [@Karmacheck](https://karmacheck.com/#)  
+ ## Formerly [@Forkist](https://forkist.com), and [@Karmacheck](https://karmacheck.com/#)  
 
 
 ### Snake history!
