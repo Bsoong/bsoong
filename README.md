@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-## Fullstack Engineer. Stevens Tech'21. [@priceline](https://priceline.com) now, working on passion projects [@HudsonHapps.com](https://hudsonhapps.com)
+## Fullstack Engineer. Stevens Tech'21.
+ [@priceline](https://priceline.com) now, working on passion projects [@HudsonHapps.com](https://hudsonhapps.com)
 
- ## Formerly [@Forkist](https://forkist.com), and [@Karmacheck](https://karmacheck.com/#)  
-
-
-### Snake history!
-![snake gif](https://raw.githubusercontent.com/bsoong/bsoong/output/github-contribution-grid-snake.svg)
+ ## Formerly:
+ [@Forkist](https://forkist.com), and [@Karmacheck](https://karmacheck.com/#)  
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bsoong&theme=buefy-dark)](https://git.io/streak-stats)
 
