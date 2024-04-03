@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Fullstack Engineer. Stevens Tech'21.
+## Fullstack Engineer. Stevens Tech Graduate.
  [@priceline](https://priceline.com) now, working on passion projects [@HudsonHapps.com](https://hudsonhapps.com)
 
  ## Formerly:
