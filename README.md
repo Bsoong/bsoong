@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 ## Fullstack Engineer. Stevens Tech Graduate.
- [@priceline](https://priceline.com) now, working on passion projects [@HudsonHapps.com](https://hudsonhapps.com)
+ [@Default](https://default.com) now
 
  ## Formerly:
- [@Forkist](https://forkist.com) and [@Karmacheck](https://karmacheck.com/#)  
+ [@Forkist](https://forkist.com), [@Karmacheck](https://karmacheck.com/#), [@priceline](https://priceline.com), & [@HudsonHapps.com](https://hudsonhapps.com)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bsoong&theme=buefy-dark)](https://git.io/streak-stats)
 
