@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Fullstack Engineer & Tech Lead. Stevens Tech Graduate. Avid Knicks fan.
- Currently unemployed, looking for the next big thing. Practicing system design and getting back into interview shape.
+ Currently at Posh
  
  ## Formerly:
  [@Default](https://default.com), [@Forkist](https://forkist.com), [@Karmacheck](https://karmacheck.com/#), [@priceline](https://priceline.com), & [@HudsonHapps.com](https://hudsonhapps.com)
